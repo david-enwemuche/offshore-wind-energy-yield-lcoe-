@@ -1,7 +1,7 @@
 # Offshore Wind Energy Yield & LCOE Model
-A Python-based engineering analysis project for assessing offshore wind resource, turbine energy production and project level economics.
-## Project Objective
-  -Analysis hourly offshore wind resource data
+A Python-based engineering analysis project for assessing offshore wind resources, turbine energy production and project level economics.
+## Project Objectives
+  -Analyse hourly offshore wind resource data
   -Assess wind speed characteristics and distributions
   -Model turbine power output using a turbine power curve
   -Estimate gross and net annual energy production
