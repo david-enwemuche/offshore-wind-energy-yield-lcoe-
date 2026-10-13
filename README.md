@@ -10,7 +10,7 @@ The project was developed to demonstrate practical analytical skills and explore
 
 ## Key results
 |**Metric** | **Illustrative result**|
-|---|---|
+|:-----|--------------:|
 |Net annual energy production | 23.325 GWh/year|
 |Net capacity factor | 17.75%|
 |Net equivalent full-load hours | 1,555 hours/year|
@@ -71,8 +71,7 @@ This is an illustrative portfolio project using simplified assumptions. It is no
 The model does not replace a detailed wind-resource assessment, wake modelling, site-specific loss analysis, uncertainty assessment or a complete project-financing model. Results depend on the assumptions and the cost and energy boundaries used in the notebook.
 
 ## Author
-David Enwemuche
-
-Inverness, Scotland
-Email: enwemuchedavid@gmail.com
+David Enwemuche<br>
+Inverness, Scotland<br>
+Email: enwemuchedavid@gmail.com<br>
 LinkedIn: https://www.linkedin.com/in/david-enwemuche-34b6171b2
