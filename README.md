@@ -70,7 +70,9 @@ This is an illustrative portfolio project using simplified assumptions. It is no
 
 The model does not replace a detailed wind-resource assessment, wake modelling, site-specific loss analysis, uncertainty assessment or a complete project-financing model. Results depend on the assumptions and the cost and energy boundaries used in the notebook.
 
-## Author
+
+
+### Author
 David Enwemuche<br>
 Inverness, Scotland<br>
 Email: enwemuchedavid@gmail.com<br>
